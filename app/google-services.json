@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "169867939829",
+    "firebase_url": "https://messio-36b36.firebaseio.com",
+    "project_id": "messio-36b36",
+    "storage_bucket": "messio-36b36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169867939829:android:23dd32967b60a4f562dabc",
+        "android_client_info": {
+          "package_name": "com.example.messio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169867939829-uglf11keclfc26oot3bgba433girl3a6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.messio",
+            "certificate_hash": "09666476b880848839bf2b87ba4de32ab0659439"
+          }
+        },
+        {
+          "client_id": "169867939829-2tvs3i6s02310i56r4jfce8elkncfp47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxhCI9XAOWZMGUtc1irvyA-z8UUMbwqnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169867939829-2tvs3i6s02310i56r4jfce8elkncfp47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
